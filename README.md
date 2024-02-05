@@ -1,1 +1,1 @@
-# generador-de-fibonacci
+# fibonacci-generator
